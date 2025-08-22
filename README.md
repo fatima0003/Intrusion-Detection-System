@@ -14,7 +14,7 @@ The detailed project documentation is available in the `report.pdf` file. It inc
   
 ## Results
 The system successfully detected and logged malicious activities.  
-Below are some sample results (add your screenshots when uploaded):
+Below are some sample results:
 
 - **pfSense Firewall Blocking ICMP Traffic:**  
   ![pfSense Screenshot](images/pfsense.png)
