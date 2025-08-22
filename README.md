@@ -27,9 +27,7 @@ Below are some sample results:
 
 ## Future Directions
 - Integrate automated response mechanisms (e.g., dynamic blocking via SOAR tools).
-- Add machine learning models for anomaly-based threat detection.
 - Expand monitoring to include cloud infrastructure and endpoint devices.
-- Implement high availability (HA) and load balancing for scalability.
 
 ## Contributors
 - Fatima Munir  
