@@ -1,2 +1,36 @@
-# Intrusion-Detection-System
-A hands-on project integrating pfSense, Snort, and Wazuh to build a layered intrusion detection and SIEM system, featuring firewall rules, IDS alerts, and centralized log monitoring.
+# IDS Integration Using pfSense, Snort, and Wazuh
+
+This project demonstrates the integration of pfSense (firewall), Snort (IDS/IPS), and Wazuh (SIEM) to create a layered intrusion detection and monitoring system. The project report includes details of the network setup, configurations, testing methodology, and results.
+
+## Project Information
+The detailed project documentation is available in the `report.pdf` file. It includes the following sections:
+
+- Introduction  
+- System Architecture  
+- Implementation Methodology (pfSense, Snort, Wazuh)  
+- Testing and Validation  
+- Results and Discussion  
+- Future Work
+  
+## Results
+The system successfully detected and logged malicious activities.  
+Below are some sample results (add your screenshots when uploaded):
+
+- **pfSense Firewall Blocking ICMP Traffic:**  
+  ![pfSense Screenshot](images/pfsense_firewall.png)
+
+- **Snort IDS Alerts:**  
+  ![Snort Screenshot](images/snort_alert.png)
+
+- **Wazuh SIEM Dashboard:**  
+  ![Wazuh Screenshot](images/wazuh_dashboard.png)
+
+## Future Directions
+- Integrate automated response mechanisms (e.g., dynamic blocking via SOAR tools).
+- Add machine learning models for anomaly-based threat detection.
+- Expand monitoring to include cloud infrastructure and endpoint devices.
+- Implement high availability (HA) and load balancing for scalability.
+
+## Contributors
+- Fatima Munir  
+- Shumaq Shoaib  
