@@ -17,13 +17,13 @@ The system successfully detected and logged malicious activities.
 Below are some sample results (add your screenshots when uploaded):
 
 - **pfSense Firewall Blocking ICMP Traffic:**  
-  ![pfSense Screenshot](images/pfsense_firewall.png)
+  ![pfSense Screenshot](images/pfsense.png)
 
 - **Snort IDS Alerts:**  
-  ![Snort Screenshot](images/snort_alert.png)
+  ![Snort Screenshot](images/SnortIDS.png)
 
 - **Wazuh SIEM Dashboard:**  
-  ![Wazuh Screenshot](images/wazuh_dashboard.png)
+  ![Wazuh Screenshot](images/Wazuh.png)
 
 ## Future Directions
 - Integrate automated response mechanisms (e.g., dynamic blocking via SOAR tools).
